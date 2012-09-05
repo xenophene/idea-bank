@@ -1,0 +1,1 @@
+This serves as a space to add all the wild and weird ideas that I keep getting intermittently, and am (usually) too lazy or (rarely) too busy to implement there and then. Don't know if this is a waste of precious Git space on GitHub or will ever be used, but we'll see, it seems GitHub is the new blogger for coding freaks.
